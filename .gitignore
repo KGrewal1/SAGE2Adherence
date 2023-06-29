@@ -1,3 +1,6 @@
 *.dta
+test.*
 SAGE_India_W2_IND_Data_Cleaned.csv
 SAGE_India_W2_IND_Data_Cleaned_Modified.csv
+*.jpg
+*Old.*
